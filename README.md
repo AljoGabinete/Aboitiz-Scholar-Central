@@ -1,1 +1,1 @@
-# AboitizScholearCentral
+# AboitizScholarCentral
